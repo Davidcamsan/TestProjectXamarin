@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2B3F500B-0443-43AA-B07B-8E527363D684}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestProjectXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E54572E0-8A35-4BC7-A791-99069E5EB421">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TestProjectXamarin.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Data/SQLite_Android.cs">
+    <Files>
+      <File FileName="TestProjectXamarin/Data/ISQLite.cs" Line="2" Column="1" />
+      <File FileName="TestProjectXamarin/Data/UserDatabaseController.cs" Line="54" Column="1" />
+      <File FileName="TestProjectXamarin/Data/TokenDatabaseController.cs" Line="19" Column="24" />
+      <File FileName="TestProjectXamarin/App.xaml.cs" Line="52" Column="1" />
+      <File FileName="TestProjectXamarin/Views/LoginPage.xaml" Line="23" Column="15" />
+      <File FileName="TestProjectXamarin/Views/LoginPage.xaml.cs" Line="22" Column="1" />
+      <File FileName="Droid/Data/SQLite_Android.cs" Line="31" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestProjectXamarin.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/carmen/Projects/TestProjectXamarin/TestProjectXamarin/Data/UserDatabaseController.cs" relfile="TestProjectXamarin/Data/UserDatabaseController.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

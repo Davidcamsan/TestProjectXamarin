@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestProjectXamarin.Views.LoginPage">
+    
+    <StackLayout x:Name="MasterLayout">
+
+        
+        <StackLayout x:Name="LoginEntries" VerticalOptions="StartAndExpand">
+
+
+            <ActivityIndicator x:Name="ActivitySpinner" Color="Red" IsRunning="true"/>
+            
+            <Label x:Name="Lb1_Username" Text="Username" />
+            <Entry x:Name="Entry_Username" Placeholder="Username" />
+            <Label x:Name="Lb1_Password" Text="Password" />
+            <Entry x:Name="Entry_Password" Placeholder="Password" />
+            <Button x:Name="Btn_Signin" Text="Sign In" Clicked="SignInProcedure" BackgroundColor="Silver" />
+        </StackLayout>
+
+        
+    </StackLayout>
+</ContentPage>
